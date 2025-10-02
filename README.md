@@ -3,7 +3,7 @@
 <img width="1021" height="541" alt="image" src="https://github.com/user-attachments/assets/a21f8b70-609a-43d7-add2-71b41784fa47" />
 
 
-# This is an AWS system design and implementation of security, scalability, and high availability cloud architecture supporting a containerized web application.
+## This is an AWS system design and implementation of security, scalability, and high availability cloud architecture supporting a containerized web application.
 
 # Key solution deliverables included:
 
