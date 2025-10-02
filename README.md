@@ -44,7 +44,6 @@
 -Deployed a Web Application Firewall (WAF) to protect the ALB from common web exploits and attacks like SQL injection or cross-site scripting (XSS)
 -Created custom rules and integrated managed rule sets for enhanced threat protection.
 
-<img width="1886" height="811" alt="image" src="https://github.com/user-attachments/assets/971b114a-9c18-46bb-a567-15f5db032c39" />
 <img width="1886" height="811" alt="image" src="https://github.com/user-attachments/assets/d4f3e5f9-6075-482c-a13b-f416d88a72c6" />
 <img width="1881" height="817" alt="image" src="https://github.com/user-attachments/assets/580599a1-c948-4c27-92cf-9ab4f08e3c66" />
 
