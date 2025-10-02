@@ -51,13 +51,13 @@
 ---
 
 ## Technologies used for the solution:
-Transit Gateway
-VPC 
-EC2
-ALB/NLB
-ECS (Fargate) 
-WAF 
-Docker
+- Transit Gateway
+- VPC 
+- EC2
+- ALB/NLB
+- ECS (Fargate) 
+- WAF 
+- Docker
 
 ## Solution Outcomes:
 🌐Achieving secure VPC communication with minimum latency.
