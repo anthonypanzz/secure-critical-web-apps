@@ -41,7 +41,7 @@ Defined ECS task definitions, services, and cluster configuration, ensuring reli
 
 
 ## Security Hardening with AWS WAF:
-Deployed a Web Application Firewall (WAF) to protect the ALB from common web exploits and attacks like SQL injection or cross-site scripting (XSS)
+Deployed a Web Application Firewall (WAF) to protect the ALB from common web exploits and attacks like SQL injection or cross-site scripting (XSS).
 Created custom rules and integrated managed rule sets for enhanced threat protection.
 
 <img width="1886" height="811" alt="image" src="https://github.com/user-attachments/assets/d4f3e5f9-6075-482c-a13b-f416d88a72c6" />
