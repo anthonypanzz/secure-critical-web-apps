@@ -60,6 +60,6 @@
 - Docker
 
 ## Solution Outcomes:
-🌐Achieving secure VPC communication with minimum latency.
-📈Enabled scalable and resilient web application hosting.
-🔐Hardened application security posture through proactive threat mitigation.
+# Achieving secure VPC communication with minimum latency.
+# Enabled scalable and resilient web application hosting.
+# Hardened application security posture through proactive threat mitigation.
