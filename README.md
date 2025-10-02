@@ -29,8 +29,8 @@ Configured health checks and listener rules to support diverse traffic handling 
 ---
 
 ## Containerized Application Deployment:
--Built and deployed a containerized application using Amazon ECS (Elastic Container Service) with Fargate, enabling serverless compute.
--Defined ECS task definitions, services, and cluster configuration, ensuring reliable auto-scaling and fault tolerance.
+Built and deployed a containerized application using Amazon ECS (Elastic Container Service) with Fargate, enabling serverless compute.
+Defined ECS task definitions, services, and cluster configuration, ensuring reliable auto-scaling and fault tolerance.
 <img width="1903" height="386" alt="image" src="https://github.com/user-attachments/assets/f3004de8-2f7d-452b-b187-f7f414fb6c82" />
 <img width="1883" height="806" alt="image" src="https://github.com/user-attachments/assets/85363f88-ad1b-4e77-b8a5-d62076a23be0" />
 <img width="1884" height="785" alt="image" src="https://github.com/user-attachments/assets/f0446d49-3af0-47f6-a41c-5bbe2018e65b" />
